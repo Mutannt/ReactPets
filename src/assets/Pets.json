@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://sun9-west.userapi.com/sun9-8/s/v1/ig2/5xPbcJ09WQeYk0HRXGe8ZvmTCjXQrm5KKxcLDuyn0s7sMKNgeSdn9J0KVDzDKDSUAddAsDRuOhSl6pCA77AwAuM2.jpg?size=400x300&quality=95&type=album",
+    "title": "Шотландский вислоухий",
+    "types": [0,3],
+    "ages": ["1 мес.", "3 мес.", "1 год"],
+    "price": 500,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://sun9-east.userapi.com/sun9-31/s/v1/ig2/mvghT3aHFHUcCcQcV9mxDaPq4bowLiKtMr_SJKSMxzVmGZ0U7_lFFMqF0rPo6KyMjexT4CdhrWkdeFx8IY8L6KzP.jpg?size=503x447&quality=95&type=album",
+    "title": "Мейн-кун",
+    "types": [3],
+    "ages": ["1 мес."],
+    "price": 700,
+    "category": 1,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://sun9-west.userapi.com/sun9-16/s/v1/ig2/B1Sl17OCPP4gH-ZawhjHQuf25Wt1h7T1aTtk3BBEw7T9z9z5ySs4JE3Fo7e3Z8buv-huWY8UXnwJQpsnBaGwJuIT.jpg?size=640x514&quality=95&type=album",
+    "title": "Сиамская",
+    "types": [4],
+    "ages": ["1 мес.", "3 мес."],
+    "price": 295,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://sun9-north.userapi.com/sun9-81/s/v1/ig2/wYf8xyQyFNcRfIjtUQUNpH7zZjSlYOuJ71XVd-XmsPMxzvjFvGSoSns-B77BJEwZBAHpQgHL0SA8Ukx1tdfwXQrC.jpg?size=640x640&quality=95&type=album",
+    "title": "Померанский шпиц",
+    "types": [3],
+    "ages": ["3 мес.", "1 год"],
+    "price": 275,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://sun9-north.userapi.com/sun9-79/s/v1/ig2/88kQqweQXoNO63MEoN6opBIMOS9AklPX7K_-PaI6fDqOhE7g_6h4oAbYU2tRomcPPbm4a09PylNN8gMu7BiuXU3m.jpg?size=1844x1920&quality=95&type=album",
+    "title": "Акита-ину",
+    "types": [3],
+    "ages": ["1 мес.", "3 мес.", "1 год"],
+    "price": 415,
+    "category": 2,
+    "rating": 8
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://sun9-east.userapi.com/sun9-74/s/v1/ig2/sa3qLtdoAN-AKEde7J3yv1HII0V6422LyDlhNDJ8mJzGUcW1mnAqMiOGa3s4qDgjvVLcHDXeOIO5kCEvzePFYpAK.jpg?size=323x246&quality=95&type=album",
+    "title": "Доберман",
+    "types": [4],
+    "ages": ["1 мес.", "3 мес.", "1 год"],
+    "price": 580,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://sun9-east.userapi.com/sun9-20/s/v1/ig2/lVbCGBtY2HPsAy072E2LKH7798hmXM6ASjmLVfkjJm6Quuumt8Qkw9bAWJK3F69ywjjeX1N3nPQ6o95qVimmjwhw.jpg?size=434x387&quality=95&type=album",
+    "title": "Ара",
+    "types": [1, 2],
+    "ages": ["1 мес.", "3 мес.", "1 год"],
+    "price": 675,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://sun7.userapi.com/sun7-14/s/v1/ig2/R8KefM2InNeieVG2-jgGGqQf4CM_CHrXIGZpifgMXdhLH-PMHJpvEA7TH6hbPf-PNh1IsLEDLpdqoYjkV_3X0Hb7.jpg?size=505x345&quality=95&type=album",
+    "title": "Королевский попугай",
+    "types": [1, 2],
+    "ages": ["1 мес.", "3 мес.", "1 год"],
+    "price": 450,
+    "category": 3,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://sun9-west.userapi.com/sun9-40/s/v1/ig2/QyIVM3yLBWJCzulQwvsk0Z4f1DOFl2dCRFIATmdaXZ-7WB5yxCft7J4OJNjLrxM52AdQJRnoSzd7gUbAPIrw8QJp.jpg?size=393x390&quality=95&type=album",
+    "title": "Плащеносная ящерица",
+    "types": [1],
+    "ages": ["1 мес.", "3 мес.", "6 мес."],
+    "price": 395,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://sun9-east.userapi.com/sun9-18/s/v1/ig2/sFq3hOEes7PNpqhBxlPcoq4QYr7KhM2rF3VaBAEnV7Nr6_9wI3S-trtJvSgw9YPb4RUBJMEKB85MZJBxUqr_v1DU.jpg?size=425x332&quality=95&type=album",
+    "title": "Кожистая черепаха",
+    "types": [4],
+    "ages": ["1 мес.", "1 год", "5 лет"],
+    "price": 285,
+    "category": 5,
+    "rating": 7
+  }
+]
